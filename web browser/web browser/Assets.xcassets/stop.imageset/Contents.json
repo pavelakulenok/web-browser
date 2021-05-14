@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-computer-icons-font-awesome-download-stop-button-5b3232427c2bb4.5920725215300163225086.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-computer-icons-font-awesome-download-stop-button-5b3232427c2bb4.5920725215300163225086-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-computer-icons-font-awesome-download-stop-button-5b3232427c2bb4.5920725215300163225086-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
