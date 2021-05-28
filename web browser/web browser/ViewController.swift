@@ -27,11 +27,9 @@ class ViewController: UIViewController {
                 let request = URLRequest(url: url)
                 webView.load(request)
             }
-        } else {
-            if let url = URL(string: "https://\(text)") {
-                let request = URLRequest(url: url)
-                webView.load(request)
-            }
+        } else if let url = URL(string: "https://\(text)") {
+            let request = URLRequest(url: url)
+            webView.load(request)
         }
     }
 
